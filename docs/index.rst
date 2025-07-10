@@ -1,7 +1,3 @@
-.. raw:: html
- 
-    <meta http-equiv="refresh" content="0; url=https://navisolve.com/">
-
 How to Update Renault GPS Map? Easy Guide
 ==================================
 
